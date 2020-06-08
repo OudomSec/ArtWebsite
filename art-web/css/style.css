@@ -1,0 +1,236 @@
+body
+{
+    background-color: #f2f8f9;
+    font-family: 'Poppins', sans-serif;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(255,255,255,.1);
+}
+
+.stretch {
+    height: 600px;
+}
+
+.active
+{
+    background-color: #28a745;
+    border-radius: 25px;
+}
+
+.icon-img
+{
+    width: 55px;
+}
+.des-img
+{
+    width: 100%;
+    height: auto;
+}
+
+.border-img
+{
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
+
+.popular
+{
+    position: relative;
+    background-color: #f2f8f9;
+    padding: 50px 0px;
+}
+
+ul li a:hover{
+    background-color: #28a745 !important;
+    color: #000;
+    border-radius: 25px;
+}
+
+ul li a{
+    color: #fff;
+    transition: 0.6s ease;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+
+.search-color
+{
+    transition: 0.6s ease !important;
+}
+
+.customize-center
+{
+    padding: 50px 5%;
+}
+
+.blue
+{
+    background-color: #e3f2fd;
+    margin-bottom: 0px;
+}
+
+.navbar
+{
+    color: #fff;
+    padding: 1rem 1rem;
+}
+
+.jum-color
+{
+    background-color: #DCDCDC;
+}
+
+/* Index */
+
+.texthead-color
+{
+    color: white;
+}
+
+/* Contact */
+
+.jum-img
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../picture/apsara.jpg);
+    /*background-image: url('../picture/apsara.jpg');*/
+    height: 350px;
+    object-fit: contain;
+    background-size: cover;
+
+}
+
+.background
+{
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(../picture/developer.jpg);
+    background-size: cover;
+}
+
+/* B.Pha CSS */
+
+.color
+{
+    background-color: #dcdcdc;  
+}
+
+.skills {
+    text-align: right;
+    padding: 0.5px; 
+    color: white; /* White text color */
+}
+
+.html {width: 80%; background-color: #4CAF50;} 
+.css {width: 70%; background-color: #2196F3;} 
+.js {width: 30%; background-color: #f44336;} 
+
+.html2 {width: 79%; background-color: #4CAF50;} 
+.css2 {width: 69%; background-color: #2196F3;} 
+.js2 {width: 29%; background-color: #f44336;} 
+
+.html1 {width: 81%; background-color: #4CAF50;} 
+.css1 {width: 71%; background-color: #2196F3;} 
+.js1 {width: 31%; background-color: #f44336;}
+
+#boxing
+{
+    border: 2px solid black;
+    margin: 2px 2px 44px 2px;
+    position: relative;
+}
+
+#designbutton{
+    background-color: #00b341 !important;
+    border: 0px;
+    /* margin: 0px 0px 0px 205px; */
+    position: absolute;
+    display: block;
+    right: 0px;
+    top: 0px;
+    padding: 0px 12px;
+    font-size: 16px;
+}
+
+#designbutton2{
+    background-color: #00b341 !important;
+    border: 0px;
+    /* margin: 0px 0px 0px 205px; */
+    position: absolute;
+    display: block;
+    right: 50px;
+    top: 0px;
+    padding: 0px 15px;
+    font-size: 16px;
+}
+
+#buqsbutton{
+    background-color: #f44336 !important;
+    border: 0px;
+    /* margin: 0px 0px 0px 205px; */
+    position: absolute;
+    display: block;
+    right: 0px;
+    top: 0px;
+    padding: 0px 12px;
+    font-size: 16px;
+}
+
+#buqsbutton2{
+    background-color: #f44336 !important;
+    border: 0px;
+    /* margin: 0px 0px 0px 205px; */
+    position: absolute;
+    display: block;
+    right: 50px;
+    top: 0px;
+    padding: 0px 15px;
+    font-size: 16px;
+}
+
+#programbutton{
+    background-color: #2196F3 !important;
+    border: 0px;
+    /* margin: 0px 0px 0px 205px; */
+    position: absolute;
+    display: block;
+    right: 0px;
+    top: 0px;
+    padding: 0px 12px;
+    font-size: 16px;
+}
+
+#programbutton2{
+    background-color: #2196F3 !important;
+    border: 0px;
+    /* margin: 0px 0px 0px 205px; */
+    position: absolute;
+    display: block;
+    right: 50px;
+    top: 0px;
+    padding: 0px 15px;
+    font-size: 16px;
+}
+.clrmuk
+{
+    background-color: burlywood;
+    border: 1px solid blue;
+    margin: 2px;
+    padding: 4px;
+}
+.rgb
+{
+    border: 2px crimson blue;
+    height: 120px;
+    text-align: center;
+    background-color: #015670;
+    border-radius: 60%;
+    margin: 5px;
+    padding: 20px
+    
+}
